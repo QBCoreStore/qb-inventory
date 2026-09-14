@@ -2,7 +2,7 @@
 
 Newest QBCore inventory for your FiveM server. Custom UI with clothing slots, personal info, hotbar, stashes, and drops.
 
-![Inventory UI](screenshots/inventory.png)
+![Inventory UI](screenshots/inventory-ui.png)
 
 ## Tags
 
