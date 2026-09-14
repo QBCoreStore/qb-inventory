@@ -1,0 +1,8 @@
+desktop.ini
+Thumbs.db
+.DS_Store
+html/preview.html
+html/js/preview.js
+tools/
+.vscode/
+.idea/
